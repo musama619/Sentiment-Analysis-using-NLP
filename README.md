@@ -1,5 +1,8 @@
 # Sentiment-Analysis-using-NLP
 
+![Task7](https://user-images.githubusercontent.com/34093998/88653749-e8338480-d0e5-11ea-8bd4-13856886b2db.png)
+
+
 * Natural Language Processing is used to build predictive model to perform sentiment analysis of customers on Amazon Alexa and predicted if customers are happy or not.
 * Natural Language Processing worked by converting words into numbers and training a machine learning model for prediction. In our case we have used Naive Bayes Classifier
 
