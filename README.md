@@ -15,5 +15,5 @@
 ### Training Naive Bayes Classifier
 ### Assess Model Performance
 
-Learn More about **Naive Bayes** : https://github.com/musama619/Naive-Bayes
+Learn More about **Naive Bayes** : https://github.com/musama619/Naive-Bayes <br/>
 Learn More about **NLP** : https://github.com/musama619/NLP
