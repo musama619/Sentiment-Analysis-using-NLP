@@ -14,3 +14,6 @@
 ### Tokenization (Count Vectorizer)
 ### Training Naive Bayes Classifier
 ### Assess Model Performance
+
+Learn More about **Naive Bayes** : https://github.com/musama619/Naive-Bayes
+Learn More about **NLP** : https://github.com/musama619/NLP
